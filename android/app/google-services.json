@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226085491012",
+    "firebase_url": "https://book-buffs.firebaseio.com",
+    "project_id": "book-buffs",
+    "storage_bucket": "book-buffs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226085491012:android:b44a068395b5763736c711",
+        "android_client_info": {
+          "package_name": "com.pt.book_buffs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226085491012-trqnb7c8qivrf4mrrtdj14vsthclg8ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyvqdtFr85nfLZs3HjSPYF58EfmmIESY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226085491012-trqnb7c8qivrf4mrrtdj14vsthclg8ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
